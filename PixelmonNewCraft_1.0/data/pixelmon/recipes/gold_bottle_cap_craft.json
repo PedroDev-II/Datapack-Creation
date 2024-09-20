@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ZXZ",
+    "XYX",
+    "ZXZ"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:iron_block"
+    },
+    "Y": {
+      "item": "pixelmon:rare_candy"
+    },
+    "Z": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "result": {
+    "item": "pixelmon:gold_bottle_cap",
+    "count": 1
+  }
+}
